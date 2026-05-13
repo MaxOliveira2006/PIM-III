@@ -18,7 +18,7 @@ Projeto de uma plataforma acadêmica voltada para conteúdos da área de Tecnolo
 - CSS
 - JavaScript
 - Python
-- MySQL
+
 
 # Como Executar
 
